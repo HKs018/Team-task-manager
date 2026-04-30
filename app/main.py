@@ -706,3 +706,7 @@ def dashboard(
             "overdue": totals["overdue"] or 0,
         }
     }
+
+@app.get("/")
+def root():
+    return {"message": "App is working"}
