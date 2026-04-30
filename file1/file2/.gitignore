@@ -1,6 +1,0 @@
-__pycache__/
-*.py[cod]
-.venv/
-.env
-team_task_manager.db
-.DS_Store
