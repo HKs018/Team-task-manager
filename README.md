@@ -2,11 +2,7 @@
 
 A full-stack team task management web app built with **FastAPI**, **SQLite**, and a simple responsive frontend. Users can create projects, manage team members, assign tasks, track status, and view progress through role-based access control.
 
-## Live Demo
 
-- Live URL: `Add Railway URL here`
-- Demo Video: `Add demo video link here`
-- GitHub Repo: `Add GitHub repo link here`
 
 ## Features
 
@@ -50,24 +46,7 @@ A full-stack team task management web app built with **FastAPI**, **SQLite**, an
 
 ## Screenshots
 
-Add screenshots inside:
 
-```text
-docs/screenshots/
-```
-
-Recommended screenshot files:
-
-| File | What To Capture | Where It Appears |
-| --- | --- | --- |
-| `01-login.png` | Login/signup screen | Authentication section |
-| `02-dashboard.png` | Dashboard after logging in as admin | Main screenshots section |
-| `03-projects.png` | Projects page showing project list and selected project | Project management section |
-| `04-tasks.png` | Tasks page showing all tasks and status badges | Task management section |
-| `05-member-view.png` | Member login view showing limited controls | Role-based access section |
-| `06-mobile.png` | Mobile/narrow screen layout | Responsive UI section |
-
-After adding the image files, these previews will render on GitHub:
 
 ### Dashboard
 
